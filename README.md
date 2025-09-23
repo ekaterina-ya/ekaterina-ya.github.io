@@ -1,4 +1,4 @@
-![Презентация](slides/combined-slides.png)
+![Image](slides/combined-slides.png)
 
 <div align="center">
 
