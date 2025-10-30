@@ -1,4 +1,4 @@
-![Image_20250924](slides/combined-slides.png)
+![Image_20251030](slides/combined-slides.png)
 
 <div align="center">
 
